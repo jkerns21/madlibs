@@ -40,7 +40,7 @@ public class Madlib
 							" if you don't live near steep " + pluralNounTwo + ". Snowboarding is similar,");
 		System.out.println("but you stand on one " + nounTwo +  " and " + verbTwo  +  " downhill. Another fun downhill sport is  sledding or tubing,  where you ride a " +
 							adjectiveTwo + " " + nounThree);
-		System.out.println(" or an air-filled "  + nounFour + " downhill.");
+		System.out.println("or an air-filled "  + nounFour + " downhill.");
 
 	}
 
